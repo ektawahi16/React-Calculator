@@ -1,7 +1,7 @@
 ## React-Calculator
 ### Neev-02 assignment
 
-A simple calculator using React.js that takes two numbers, performs any one of the following four operations and displays the output:
+A simple calculator using React.js that takes two numbers as input, performs any one of the following four operations and displays the output:
 1. Addition
 1. Subtraction
 1. Multiplication
